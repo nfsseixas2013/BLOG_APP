@@ -2,7 +2,7 @@
 name = "blog_app"
 version = "0.1.0"
 description = "blog app for study cases"
-authors = ["nilton.seixas <nilton.seixas@softplan.com.br>"]
+authors = ["nilton.seixas <nfsseixas@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
